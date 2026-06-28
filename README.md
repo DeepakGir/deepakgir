@@ -104,7 +104,7 @@ public class DeepakGir extends JavaDeveloper implements BackendEngineer {
 
 💼 &nbsp;Ex **Web Dev Intern** @ Digital Empowerment Network
 
-🌐 &nbsp;Portfolio → **[myprotfolios.netlify.app](https://myprotfolios.netlify.app/)**
+🌐 &nbsp;Portfolio → **[myprotfolios.netlify.app](https://deepakgirportfolio.netlify.app/)**
 
 📬 &nbsp;Email → **deepakgir2026@gmail.com**
 
