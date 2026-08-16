@@ -55,7 +55,6 @@
 
 </div>
 
-/**
  * ╔══════════════════════════════════════════════════════╗
  * ║           DEEPAK GIR — JAVA DEVELOPER                ║
  * ║           Karachi, Pakistan  🇵🇰                      ║
@@ -67,7 +66,7 @@ public class DeepakGir extends JavaDeveloper implements BackendEngineer {
     private final String   location    = "Karachi, Pakistan 🇵🇰";
     private final String   university  = "Sindh Madressatul Islam University";
     private final String   degree      = "B.Sc Computer Science  (2023 → 2027)";
-    private final String   portfolio   = "https://myprotfolios.netlify.app/";
+    private final String   portfolio   = (https://deepakgirportfolio.netlify.app/);
     private final String   email       = "deepakgir2026@gmail.com";
 
     private final String[] techStack   = {
@@ -108,7 +107,7 @@ public class DeepakGir extends JavaDeveloper implements BackendEngineer {
 
 💼  Ex Web Dev Intern @ Digital Empowerment Network
 
-🌐  Portfolio → myprotfolios.netlify.app
+🌐  Portfolio →(https://deepakgirportfolio.netlify.app/)
 
 📬  Email → deepakgir2026@gmail.com
 
