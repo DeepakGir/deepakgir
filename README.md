@@ -50,7 +50,7 @@
 <div align="center">
 
 📱 Mobile-friendly README: Sections and project cards are stacked vertically so the profile remains easy to read on phones.
-
+/**
 👾 whoami
 
 </div>
