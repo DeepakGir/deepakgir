@@ -92,7 +92,11 @@ public class DeepakGir extends JavaDeveloper implements BackendEngineer {
 🧠 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="100%" 
+    alt="coding gif" 
+  />
 </div>
 
 🎯  Passionate Java backend developer who loves clean, maintainable code
@@ -248,6 +252,7 @@ Full-stack Spring Boot REST API with Hibernate ORM, JWT Auth & Swagger docs — 
 </div>
 
 <div align="center">
+
 
 📈 Contribution Graph
 
